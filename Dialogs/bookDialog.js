@@ -72,3 +72,4 @@ class BookDialog extends ComponentDialog{
 }
 
 module.exports.BookDialog=BookDialog;
+//
